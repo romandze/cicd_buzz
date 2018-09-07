@@ -15,8 +15,4 @@ def generate_buzz():
     return page
 
 if __name__ == "__main__":
-<<<<<<< HEAD
     app.run(host='0.0.0.0', port='5000')
-=======
-    app.run(host='0.0.0.0')
->>>>>>> 753e080d3ec779da19e82c1ea64b899fb13d416b
